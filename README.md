@@ -1,2 +1,2 @@
 # Pokedex-HTML
-projeto de desenvolvimento web.HTML/CSS/JAVASCRIPT com bootstrap para apresentaçao de uma pokedex
+Projeto de desenvolvimento Web, HTML/CSS/JAVASCRIPT com Bootstrap para apresentação de uma pokedex
